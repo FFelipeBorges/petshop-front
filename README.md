@@ -1,1 +1,1 @@
-Nesse projeto fiz a migração do html para o ejs, criei as rotas do menu e a controller dos serviços para o index.
+Nesse projeto eu adaptei as páginas de html para ejs, criei as rotas do menu e criei uma controller para serviços na index.
